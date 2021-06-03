@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="disk">images/strobe-tuner.png</file>
+    </qresource>
+</RCC>
